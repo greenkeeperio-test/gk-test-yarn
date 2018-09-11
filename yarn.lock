@@ -1720,9 +1720,9 @@ needle@^2.2.1:
     iconv-lite "^0.4.4"
     sax "^1.2.4"
 
-neighbourhoodie-test-package@49.1235.1:
-  version "49.1235.1"
-  resolved "https://registry.yarnpkg.com/neighbourhoodie-test-package/-/neighbourhoodie-test-package-49.1235.1.tgz#f17a72ac2afb3863d8edd18377b6440ecc743738"
+neighbourhoodie-test-package@49.1235.2:
+  version "49.1235.2"
+  resolved "https://registry.yarnpkg.com/neighbourhoodie-test-package/-/neighbourhoodie-test-package-49.1235.2.tgz#6e743c2b7a1434703e618523c09c88bcc8f29b80"
   dependencies:
     lodash "^4.17.4"
     webpack "^3.8.1"
