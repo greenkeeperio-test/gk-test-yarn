@@ -3,7 +3,7 @@
   "devDependencies": {
     "@babel/core": "7.1.2",
     "eslint": "5.7.0",
-    "neighbourhoodie-test-package": "59.0.0",
+    "neighbourhoodie-test-package": "60.5.1",
     "yorkie": "2.0.0"
   }
 }
