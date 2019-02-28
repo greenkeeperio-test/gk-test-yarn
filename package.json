@@ -1,9 +1,9 @@
 {
   "private": true,
   "devDependencies": {
-    "@babel/core": "7.1.2",
-    "eslint": "5.7.0",
-    "neighbourhoodie-test-package": "59.0.0",
+    "@babel/core": "7.3.4",
+    "eslint": "5.14.1",
+    "neighbourhoodie-test-package": "62.6.0",
     "yorkie": "2.0.0"
   }
 }
